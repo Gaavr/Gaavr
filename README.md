@@ -22,5 +22,5 @@
   - [plzSaveMyTimeBot](https://github.com/Gaavr/plzSaveMyTimeBot) - ...
   - [ChatGPT-To-DiscordBot](https://github.com/Gaavr/ChatGPT-To-DiscordBot) - ...
  
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gaavr&theme=default)
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gaavr&theme=chartreuse_dark)
 
