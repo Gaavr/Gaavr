@@ -23,8 +23,7 @@
   - [ChatGPT-To-DiscordBot](https://github.com/Gaavr/ChatGPT-To-DiscordBot) - ...
  
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gaavr&theme=dark)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gaavr&theme=dark" alt="mystreak"/>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gaavr&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gaavr&theme=dark)
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gaavr&theme=dark" alt="mystreak"/>
