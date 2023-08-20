@@ -3,7 +3,7 @@
 - ⚙️ Software Engineer in Test
 - 🛠️ **Technical Skills**
   
-- 📫  **Contacts*
+- 📫  **Contacts**
   - [LinkedIn](https://www.linkedin.com/in/andrey--gavrilenko/)
   - [Gmail](gavrjob@gmail.com)
   - [Telegram](https://t.me/gaavr)
