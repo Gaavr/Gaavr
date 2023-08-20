@@ -30,4 +30,5 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=gaavr&theme=dark" alt="mystreak"/>
 
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/track/28GUjBGqZVcAV4PHSYzkj2)
+
 <!-- [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=gaavr)](https://github.com/madushadhanushka/github-readme) -->
