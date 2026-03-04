@@ -1,4 +1,4 @@
-## Andrei Gavrilenko
+<h2>Andrei Gavrilenko</h2>
 
 iOS Developer
 
