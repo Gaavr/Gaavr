@@ -1,5 +1,7 @@
-Andrei Gavrilenko  
+## Andrei Gavrilenko
+
 iOS Developer
+
 ---
 
 🛠️ **Technical Skills**
