@@ -1,8 +1,6 @@
 <h2>Andrei Gavrilenko</h2>
-
-iOS Developer
-
----
+<p>iOS Developer</p>
+<hr>
 
 🛠️ **Technical Skills**
 
