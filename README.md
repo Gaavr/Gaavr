@@ -46,7 +46,7 @@ Java • Git • Selenium/Selenide • Cucumber • Docker • PostgreSQL • Je
 
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="16"/> [LinkedIn](https://www.linkedin.com/in/andrey--gavrilenko/)
 - 📧 [Gmail](mailto:gavrjob@gmail.com)
-- <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" width="16"/> [Telegram](https://t.me/gaavr)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="16"/> [Telegram](https://t.me/gaavr)
 
 ---
 
