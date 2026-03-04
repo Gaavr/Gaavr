@@ -37,8 +37,8 @@ Java • Git • Selenium/Selenide • Cucumber • Docker • PostgreSQL • Je
 
 ### 🧪 Other Projects
 
-- [FromTableToCalendar](https://github.com/Gaavr/FromTableToCalendar) - Telegram bot adding events from Google Sheets to Google Calendar
-- [plzSaveMyTimeBot](https://github.com/Gaavr/plzSaveMyTimeBot) - Tracking important tasks using Telegram bot
+- [FromTableToCalendar](https://github.com/Gaavr/FromTableToCalendar) - Sync university schedule from Google Sheets to Google Calendar via Telegram bot.
+- [plzSaveMyTimeBot](https://github.com/Gaavr/plzSaveMyTimeBot) - Personal productivity bot that logs activities into Google Sheets.
 
 ---
 
