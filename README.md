@@ -1,5 +1,5 @@
-<h2>Andrei Gavrilenko</h2>
-<p>iOS Developer</p>
+<p style="font-size:32px; font-weight:700; margin:0;">Andrei Gavrilenko</p>
+<p style="margin:6px 0 0 0;">iOS Developer</p>
 <hr>
 
 🛠️ **Technical Skills**
