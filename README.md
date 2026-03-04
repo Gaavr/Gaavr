@@ -31,22 +31,22 @@ Java • Git • Selenium/Selenide • Cucumber • Docker • PostgreSQL • Je
 
 ### 🚀 iOS Projects
 
-- **[DYM](https://github.com/Gaavr/DYM)** — Motivation poster app built with **SwiftUI + SwiftData**
+- **[DYM](https://github.com/Gaavr/DYM)** - Motivation poster app built with **SwiftUI + SwiftData**
 
 ---
 
 ### 🧪 Other Projects
 
-- [FromTableToCalendar](https://github.com/Gaavr/FromTableToCalendar) — Telegram bot adding events from Google Sheets to Google Calendar
-- [plzSaveMyTimeBot](https://github.com/Gaavr/plzSaveMyTimeBot) — Tracking important tasks using Telegram bot
+- [FromTableToCalendar](https://github.com/Gaavr/FromTableToCalendar) - Telegram bot adding events from Google Sheets to Google Calendar
+- [plzSaveMyTimeBot](https://github.com/Gaavr/plzSaveMyTimeBot) - Tracking important tasks using Telegram bot
 
 ---
 
 ### 📫 Contacts
 
-- [LinkedIn](https://www.linkedin.com/in/andrey--gavrilenko/)
-- Gmail: gavrjob@gmail.com
-- [Telegram](https://t.me/gaavr)
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="16"/> [LinkedIn](https://www.linkedin.com/in/andrey--gavrilenko/)
+- 📧 [Gmail](mailto:gavrjob@gmail.com)
+- <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" width="16"/> [Telegram](https://t.me/gaavr)
 
 ---
 
