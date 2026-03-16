@@ -1,5 +1,4 @@
 ## Andrei Gavrilenko
-iOS Developer
 
 ---
 
@@ -14,7 +13,7 @@ iOS Developer
 
 Xcode • Swift • SwiftUI • SwiftData
 
-### QA Automation Background
+### QA Automation
 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
@@ -30,13 +29,13 @@ Java • Git • Selenium/Selenide • Cucumber • Docker • PostgreSQL • Je
 
 ---
 
-### 🚀 iOS Projects
+### 📱 iOS Projects
 
 - **[DYM](https://github.com/Gaavr/DYM)** - Motivation poster app built with **SwiftUI + SwiftData**
 
 ---
 
-### 🧪 Other Projects
+### 🖥️ Java Projects
 
 - [FromTableToCalendar](https://github.com/Gaavr/FromTableToCalendar) - Sync university schedule from Google Sheets to Google Calendar via Telegram bot.
 - [plzSaveMyTimeBot](https://github.com/Gaavr/plzSaveMyTimeBot) - Personal productivity bot that logs activities into Google Sheets.
