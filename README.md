@@ -31,7 +31,7 @@ Java • Git • Selenium/Selenide • Cucumber • Docker • PostgreSQL • Je
 
 ### 📱 iOS Projects
 
-- **[DYM](https://github.com/Gaavr/DYM)** - Motivation poster app built with **SwiftUI + SwiftData**
+- **[DYM](https://github.com/Gaavr/DYM)** - Motivation poster app built with **SwiftUI + SwiftData** [AppStore](https://apps.apple.com/us/app/dominate-your-mind/id6758716185)
 
 ---
 
